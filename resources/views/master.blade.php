@@ -49,7 +49,12 @@
     .trending-products{
         float:left;
         width:20%;
+        
         padding:50px;
+    }
+    .trending-text{
+       
+       text-decoration:none !important;
     }
     
     
